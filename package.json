@@ -1,5 +1,5 @@
 {
-  "name": "upgrade_of_class_character",
+  "name": "array_buffer",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -16,23 +16,34 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Stanislavsus/upgrade_of_class_Character.git"
+    "url": "git+https://github.com/Stanislavsus/array_buffer.git"
   },
   "author": "Stanislav",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Stanislavsus/upgrade_of_class_Character/issues"
+    "url": "https://github.com/Stanislavsus/array_buffer/issues"
   },
-  "homepage": "https://github.com/Stanislavsus/upgrade_of_class_Character#readme",
+  "homepage": "https://github.com/Stanislavsus/array_buffer#readme",
   "devDependencies": {
-    "@babel/cli": "^7.15.7",
-    "@babel/core": "^7.15.8",
-    "@babel/preset-env": "^7.15.8",
-    "babel-jest": "^27.2.5",
-    "eslint": "^8.0.0",
-    "jest": "^27.2.5"
+   "@babel/cli": "^7.10.1",
+    "@babel/core": "^7.10.2",
+    "@babel/preset-env": "^7.10.2",
+    "babel-jest": "^26.0.1",
+    "babel-loader": "^8.1.0",
+    "css-loader": "^3.6.0",
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.21.2",
+    "html-loader": "^1.1.0",
+    "html-webpack-plugin": "^4.3.0",
+    "jest": "^26.0.1",
+    "live-server": "^1.2.1",
+    "mini-css-extract-plugin": "^0.9.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
-    "core-js": "^3.18.2"
+    "core-js": "^3.6.5"
   }
 }
