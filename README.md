@@ -1,3 +1,7 @@
+# ajs_9_1
+
+[![Build status](https://ci.appveyor.com/api/projects/status/8x90ixmj7rmukn7j?svg=true)](https://ci.appveyor.com/project/Stanislavsus-edu/upgrade-of-class-character)
+
 **Легенда**
 
 Мощь атаки магов и демонов привела к разбалансировке игрового мира. Поэтому вы ввели для игроков несколько новых правил и возможностей:
